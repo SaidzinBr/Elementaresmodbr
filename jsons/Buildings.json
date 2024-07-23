@@ -1,15 +1,14 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Bordel",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Humanos",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": 20,
+		"culture": 10,
+		"science": 10,
+		"maintenance": 80,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
 	},
 	{
